@@ -1,0 +1,9 @@
+Package: reutils
+Version: 0.2.0
+Depends: R (>= 3.0.0), methods
+Imports: assertthat, jsonlite, RCurl, XML
+Suggests: testthat (>= 0.8)
+License: MIT + file LICENSE
+MD5sum: 54e51206069f7cbec764822c7423145a
+NeedsCompilation: no
+
