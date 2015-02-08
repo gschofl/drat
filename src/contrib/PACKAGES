@@ -1,3 +1,14 @@
+Package: biofiles
+Version: 0.3.2
+Depends: R (>= 3.1.0), Rcpp (>= 0.11.0)
+Imports: assertthat, BiocGenerics, Biostrings, foreach, GenomeInfoDb, GenomicRanges, IRanges, iterators, methods, parallel, RCurl,
+               reutils, stats, S4Vectors, XVector
+LinkingTo: Rcpp (>= 0.11.0)
+Suggests: doParallel, testthat, BiocStyle, knitr
+License: MIT + file LICENSE
+MD5sum: 8c38cbcc9c597e90917152419ccf205b
+NeedsCompilation: yes
+
 Package: gsmisc
 Version: 0.1.3
 Depends: R (>= 3.1.0)
